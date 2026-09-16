@@ -1,6 +1,6 @@
 # Project ROI Analytics Platform
 
-A **Full-Stack Financial & Project ROI Analytics Web Application** designed to help organizations track, calculate, analyze, and visualize the financial performance of business projects from a centralized platform.
+A **ROI Analytics Web Application** designed to help organizations track, calculate, analyze, and visualize the financial performance of business projects from a centralized platform.
 
 The application combines **project management, ROI calculations, savings analysis, data visualization, Excel automation, authentication, and database integration** into a single workflow.
 
